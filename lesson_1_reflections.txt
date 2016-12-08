@@ -1,0 +1,62 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Because the original version of the program
+    worked, you know the bug must be related to
+    the parts of the code that changed.
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can more easily compare different versions of a file.
+    If there is a change that was made many versions ago that
+    you want to revert back to, or just reference, it would be available.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually saving allows you to create different versions. So
+    you can purposefully wait to save until there is a significant
+    change, like a new feature, or a change to an existing feature.
+    When saving manually, it is possible to lose data if you don't
+    save your changes.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Commiting multiple files at once could allow you to show that
+    the changes to all files are related, so when looking up a
+    certain version you can see the state of the related files
+    simultaniously. Saving files individually might be more useful
+    when you want to revert back to an older version of one
+    specific file but want to keep the updates to the related files.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git Log shows you all of the different commits that have been
+    done and git diff shows you the differences between two files,
+    meaning you'll know exactly what has changed between versions.
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    When using version control, you always know that an old working
+    version of your file will be saved, so any changes you make can
+    easily be undone.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'd like to use git to learn more about coding!
