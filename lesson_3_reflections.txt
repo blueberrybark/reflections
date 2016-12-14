@@ -4,3 +4,12 @@ than keeping all your work local?
 If you plan on using multiple computers to work on a
 project or if you will have multiple people working
 on the same project.
+
+
+Why might you want to always pull changes manually
+rather than having Git automatially stay-up-to-date
+with your remote repository?
+
+If you're in the middle of adding changes to a project
+the addition of someone elses changes might negatively
+impact your work.
