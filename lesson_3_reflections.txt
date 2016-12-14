@@ -44,4 +44,8 @@ Without Github, or a version-control system like Github,
 you would manually have to send files back and forth
 between collaboraters, and keep track of which changes
 have been made between different versions of files
-manually. 
+manually. You would also need to keep a manual record
+of what changes each contributor had made. If Git or
+Github aren't used, you wouldn't have to know the
+specific Git commands and terminology, or go through
+as many steps to send code back and forth.
