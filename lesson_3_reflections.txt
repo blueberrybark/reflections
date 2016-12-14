@@ -35,3 +35,13 @@ state of the remote storred locally?
 Having a copy of the last known state of the remote
 stored locally allows you to merge the files whenever
 you want, even if you're offline.
+
+
+How would you collaborate without using Git or Github?
+What would be easier, and what would be harder?
+
+Without Github, or a version-control system like Github,
+you would manually have to send files back and forth
+between collaboraters, and keep track of which changes
+have been made between different versions of files
+manually. 
