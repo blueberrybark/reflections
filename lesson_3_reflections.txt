@@ -27,3 +27,11 @@ push and pull changes to and from a remote. Branches
 are different parts of one repository that allow you
 to create alternate versions of the code to test new
 features or fix bugs without affecting the main code.
+
+
+What is the benefit of having a copy of the last known
+state of the remote storred locally?
+
+Having a copy of the last known state of the remote
+stored locally allows you to merge the files whenever
+you want, even if you're offline.
