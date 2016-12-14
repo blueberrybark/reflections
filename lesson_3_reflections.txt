@@ -49,3 +49,15 @@ of what changes each contributor had made. If Git or
 Github aren't used, you wouldn't have to know the
 specific Git commands and terminology, or go through
 as many steps to send code back and forth.
+
+
+When would you want to make changes in a seperate branch
+rather than directly in master? What benefits does each
+approach have?
+
+You would want to make changes in a seperate branch if
+you're working on something that is experimental or
+could prevent the code from running while you fix a bug.
+Changing master directly is quicker and easier, but
+changing a branch first gives you more control over
+the timing of additions to the code in the master branch.
